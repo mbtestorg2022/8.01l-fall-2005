@@ -58,15 +58,108 @@ Exams: No outside notes, books, or assistance of any kind is allowed during exam
 
 ### Grading Policy
 
-| Activities | Percentages |
-| --- | --- |
-| In-class Exam 1 | 10% |
-| In-class Exam 2 | 15% |
-| In-class Exam 3 | 15% |
-| Final Exam | 25% |
-| In-class Experiments | 5% |
-| In-class Problem Solving | 4% |
-| Written Homework | 10% |
-| Tutor Meeting Attendance | 3% |
-| Mastering Physics | 10% |
-| Lecture Attendance | 3%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class Exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class Exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class Exam 3
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class Experiments
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class Problem Solving
+{{< tdclose >}}
+{{< tdopen >}}
+4%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written Homework
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tutor Meeting Attendance
+{{< tdclose >}}
+{{< tdopen >}}
+3%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mastering Physics
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture Attendance
+{{< tdclose >}}
+{{< tdopen >}}
+3%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
