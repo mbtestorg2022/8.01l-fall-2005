@@ -36,7 +36,7 @@ Practice Exam 1 ([PDF]({{< baseurl >}}/resources/practice_exam1))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Practice Exam 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/practice_exam2))
+Practice Exam 2 ([PDF]({{< baseurl >}}/resources/practice_exam2))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/practice_2_solut))
@@ -48,7 +48,7 @@ Practice Exam 2 (![This resource may not render correctly in a screen reader.](/
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Practice Exam 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/practice_exam3))
+Practice Exam 3 ([PDF]({{< baseurl >}}/resources/practice_exam3))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/practice_3_solut))

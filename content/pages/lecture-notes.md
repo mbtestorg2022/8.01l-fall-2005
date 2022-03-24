@@ -327,7 +327,7 @@ Properties of Fluids ([PDF]({{< baseurl >}}/resources/lec25))
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to Angular Motion (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec26))
+Introduction to Angular Motion ([PDF]({{< baseurl >}}/resources/lec26))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/prs_01_09_06sol))
@@ -399,7 +399,7 @@ More about Momentum of Rotation ([PDF]({{< baseurl >}}/resources/lec31))
 32
 {{< tdclose >}}
 {{< tdopen >}}
-More about Momentum of Rotation (cont.) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec32))
+More about Momentum of Rotation (cont.) ([PDF]({{< baseurl >}}/resources/lec32))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/prs_01_24_06sol))
