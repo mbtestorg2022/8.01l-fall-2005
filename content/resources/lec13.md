@@ -4,6 +4,7 @@ description: This resource discusses about the topic conclusion of F=ma, and sta
   of work/energy.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-01l-physics-i-classical-mechanics-fall-2005/024eb6ac0d0bc2c01a140021acb110ee_lec13.pdf
 file_type: application/pdf
+parent_uid: ef5d7853-04dc-089f-760d-fcab84f25ca4
 resourcetype: Document
 title: lec13.pdf
 uid: 024eb6ac-0d0b-c2c0-1a14-0021acb110ee
